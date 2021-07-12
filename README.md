@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @victorvmc
 - 👀 I’m interested in programming...
-- 🌱 I’m currently learning development mobile
 
 <!---
 victorvmc/victorvmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
